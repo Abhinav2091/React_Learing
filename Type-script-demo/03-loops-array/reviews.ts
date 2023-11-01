@@ -5,4 +5,5 @@ for(let i=0;i<reviews.length;i++)
     console.log(reviews[i]);
     total+=reviews[i];
 }
-console.log(total);
+console.log(total
+    );
